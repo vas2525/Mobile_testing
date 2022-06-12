@@ -32,5 +32,5 @@
 
 - End-to-End application testing scenarios.
 
-
+<img src="Mobile_testing/files/1_ToDoList-emulator.png" width="143px" height="265px">
 
