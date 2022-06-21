@@ -51,6 +51,7 @@
 - Regression checklist for checking the application;
 
 - End-to-End application testing scenarios.
+
 ![1_ReminderApp-emulator](https://user-images.githubusercontent.com/69029839/173239777-c8892fac-250c-4934-853f-ea7190856f3d.png)
 
  
