@@ -34,24 +34,23 @@
 
 ![1_ToDoList-emulator](https://user-images.githubusercontent.com/69029839/173224284-22a349ec-98b9-4227-b078-1769e62c2059.png)
 
-- [X] **HW_2 — Тестирование приложения Reminder**
+- [X] **HW_2 - Testing the "Reminder" application**
 
 
 
-- сборка приложения на эмуляторе Android Studio;
+- building the application on the Android Studio emulator;
 
-- сборка приложения на реальном телефоне;
+- assembly of the application on a real phone;
 
-- сборка .apk файла и установка на реальном телефоне;
+- build .apk file and install on a real phone;
 
-- Adhoc тестирование приложения;
+- Adhoc testing of the application;
 
-- Smoke чеклист для проверки приложения;
+- Smoke checklist for checking the application;
 
-- Regression чеклист для проверки приложения;
+- Regression checklist for checking the application;
 
-- End-to-End сценарии тестирования приложения.
-
+- End-to-End application testing scenarios.
 ![1_ReminderApp-emulator](https://user-images.githubusercontent.com/69029839/173239777-c8892fac-250c-4934-853f-ea7190856f3d.png)
 
  
